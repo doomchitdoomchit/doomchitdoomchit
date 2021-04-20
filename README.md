@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
----
+
 
 ## Languages and Tools
 ![python logo Badge](https://img.shields.io/badge/-Python-informational?logo=python&style=plastic&logoColor=white) ![javascript logo Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=plastic&logoColor=white)
